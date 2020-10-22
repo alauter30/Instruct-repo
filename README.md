@@ -63,13 +63,17 @@ I found this pretty easy but always remember the size of the shape in the sketch
 
 ### Description
 
+This is the part that holds the wheel together
 ### Evidence
 
+This was done during class
 ### Image
+<img src="[Screenshot 2020-10-22 at 6 31 28 PM](https://user-images.githubusercontent.com/71350043/96936926-00246580-1495-11eb-97b9-ec59f9682691.png)" Width="300">
+
 
 ### Reflection
 
----
+This was the most beautiful model yet
 
 
 ## Tire
